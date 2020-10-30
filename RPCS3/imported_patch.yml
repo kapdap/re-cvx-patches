@@ -1,0 +1,34 @@
+Version: 1.2
+
+PPU-5b1fe8f0b8eab817078b6db007de327653bc65dc: # BIOHAZARD CODE: Veronica 完全版 (JP)
+  Remove Door Animations:
+    Games:
+      "BIOHAZARD CODE: Veronica 完全版":
+        NPJB00135: [ 01.00 ]
+    Author: Kapdap
+    Notes: 
+    Patch Version: 1.0
+    Patch:
+      - [ be32, 0x1AE304, 0x38600000 ]
+      
+PPU-b4b1ebe7a069782537a13d5bdbc15d6e900ceb25: # RESIDENT EVIL CODE: Veronica X (US)
+  Remove Door Animations:
+    Games:
+      "RESIDENT EVIL CODE: Veronica X":
+        NPUB30467: [ 01.00 ]
+    Author: Kapdap
+    Notes: 
+    Patch Version: 1.0
+    Patch:
+      - [ be32, 0x1AE25C, 0x38600000 ]
+      
+PPU-df822d7d47de09c5672201db8cc633009037f54f: # RESIDENT EVIL CODE: Veronica X (EU)
+  Remove Door Animations:
+    Games:
+      "RESIDENT EVIL CODE: Veronica X":
+        NPEB00553: [ 01.00 ]
+    Author: Kapdap
+    Notes: 
+    Patch Version: 1.0
+    Patch:
+      - [ be32, 0x1AFCCC, 0x38600000 ]

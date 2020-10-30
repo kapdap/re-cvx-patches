@@ -1,0 +1,6 @@
+gametitle=Resident Evil - Code Veronica X (PAL-M4) (SLES-50306)
+comment=Door Skip Patch (by Kapdap)
+
+// Door Skip (bhSysCallDoordemo)
+patch=1,EE,00133FCC,word,00000000 // remove call to bhControlDoor
+patch=1,EE,00133FD4,word,00000000 // remove door animation completed check
