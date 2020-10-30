@@ -2,7 +2,7 @@
 
 This repository contains patches to remove door animations in 
 Resident Evil/Biohazard: Code: Veronica for PlayStation 2 and
-PlayStation 3 releases running on emulator or console.
+PlayStation 3 releases running on console or emulator.
 
 # Installation
 
@@ -22,7 +22,7 @@ PlayStation 3 releases running on emulator or console.
     - [[NPJB00135] [JP] Biohazard: Code: Veronica Kanzenban](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/NetCheat/NPJB00135.ncl)
     - [[NPUB30467] [US] Resident Evil: Code: Veronica X HD](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/NetCheat/NPUB30467.ncl)
     - [[NPEB00553] [EU] Resident Evil: Code: Veronica X](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/NetCheat/NPEB00553.ncl)
- 4. *ToDo*
+ 4. Enable ***Remove Door Animations*** code and run the game [using ArtemisPS3](http://artemis.psdev.tk/INSTALLATION.html#using-artemis)
 
 ## PlayStation 2
 
