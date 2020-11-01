@@ -17,9 +17,14 @@ This repository contains patches to remove door animations in Resident Evil/Bioh
 Install [Artemis PS3](http://artemis.psdev.tk/) onto your PS3.
 
 1. Run Artemis, select **Online DB** and choose your release from the list:
-   - Biohazard Code Veronica X NPJB00135 01.01
-   - Resident Evil Code Veronica X NPUB30467 01.00
-   - Resident Evil Code Veronica X NPEB00553 01.00
+
+```
+[JP] Biohazard Code Veronica X          NPJB00135    01.01
+     ...
+[EU] Resident Evil Code Veronica X      NPEB00553    01.00
+[US] Resident Evil Code Veronica X      NPUB30467    01.00
+```
+
 2. Enable ***Remove Door Animations*** code.
 3. Read the [Using Artemis](http://artemis.psdev.tk/INSTALLATION.html#using-artemis) guide for more info on running the game.
 
@@ -32,6 +37,14 @@ Installing codes onto a USB drive (optional):
    - [[NPEB00553] [EU] Resident Evil: Code: Veronica X](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/NetCheat/Resident%20Evil%20Code%20Veronica%20X%20NPEB00553%2001.00.ncl)
 3. Insert the USB drive into your PS3 and run Artemis.
 4. Select **Cheats** and choose your release from the list.
+
+```
+[JP] Biohazard Code Veronica X          NPJB00135    01.01
+     ...
+[EU] Resident Evil Code Veronica X      NPEB00553    01.00
+[US] Resident Evil Code Veronica X      NPUB30467    01.00
+```
+
 5. Enable ***Remove Door Animations*** code.
 6. Read the [Using Artemis](http://artemis.psdev.tk/INSTALLATION.html#using-artemis) guide for more info on running the game.
 
