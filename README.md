@@ -43,7 +43,7 @@ Installing codes onto a USB drive (optional):
    - [[SLPM-650.22] [JP] Biohazard: Code: Veronica Kanzenban](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/PCSX2/d0cf2395.pnach)
    - [[SLUS-201.84] [US] Resident Evil: Code: Veronica X](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/PCSX2/24036809.pnach)
    - [[SLES-503.06] [EU] Resident Evil: Code: Veronica X](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/PCSX2/6ea9dda9.pnach)
-2. Open PCSX2 the select ***System*** and check ***Enable Cheats***.
+2. Open PCSX2, select ***System*** and check ***Enable Cheats***.
 3. Run the game!
 
 ### Console
