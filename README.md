@@ -84,6 +84,14 @@ Codes for Action Replay/GameShark/CodeBreaker etc...
 00133FD4 00000000
 ```
 
+## GameCube
+
+### Dolphin
+
+1. Download the patch file for your release and save it to ***Dolphin Emulator\GameSettings***:
+   - [[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](https://raw.githubusercontent.com/kapdap/re-cvx-doorskip/master/Dolphin/GCDJ08.ini)
+2. Open Dolphin and run the game!
+
 # Acknowledgements
 
  - [nolberto82](https://gamehacking.org/vb/member/600-nolberto82) - [Skip Door Transition (SLUS-201.84)](https://gamehacking.org/vb/forum/video-game-hacking-and-development/hacker-threads/4554-nolberto82-codes/page264#post152904)
