@@ -1,6 +1,6 @@
 # Resident Evil: Code: Veronica Door Skip
 
-This repository contains patches to remove door animations in Resident Evil/Biohazard: Code: Veronica for PlayStation 2 and PlayStation 3 releases running on console or emulator.
+This repository contains patches to remove door animations in Resident Evil/Biohazard: Code: Veronica for GameCube, PlayStation 2 and PlayStation 3 releases running on console or emulator.
 
 # Installation
 
@@ -91,10 +91,22 @@ Offset   Value
 
 ### Dolphin
 
+1. Download the patch file for your release:
+   - [[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](Dolphin/GCDJ08.ini)
+   - [[GCDE08] [US] Resident Evil: Code: Veronica X](Dolphin/GCDE08.ini)
+   - [[GCDP08] [EU] Resident Evil: Code: Veronica X](Dolphin/GCDP08.ini)
+2. Save the patch file to the ***GameSettings*** folder under Dolphins [Global User Directory](https://dolphin-emu.org/docs/guides/controlling-global-user-directory/):
+   - Windows: ***Documents/Dolphin Emulator/GameSettings***
+   - MacOS: ***~/.dolphin-emu/GameSettings***
+   - Linux: ***~/.dolphin-emu/GameSettings***
+3. Open Dolphin and run the game!
+
+Adding patch manually (optional):
+
 1. Open Dolphin then ***Right Click Game***, select ***Properties*** then select ***Patches*** tab.
 2. Press the ***Add*** button (near bottom of the dialog) to open the ***Add Patch*** dialog.
 3. In the ***Name*** field enter ***Remove Door Animations***.
-5. Find the ***Offsets*** and ***Values*** for your game release from the tables below.
+5. Find the ***Offsets*** and ***Values*** for your game release from the console tables below.
 4. Entry 1:
    - Select ***dword***.
    - Fill in ***Offset*** and ***Value***.
@@ -104,6 +116,15 @@ Offset   Value
    - Fill in ***Offset*** and ***Value***.
 7. Press ***OK*** to save the patch then ***Close*** the properties dialog.
 8. Run the game!
+
+*Example screenshots showing patch offsets for JP CVX release:*
+
+![Options for Remove Door Animations patch entry 1](_assets/dolphin_add_patch_entry_1.png "Options for Remove Door Animations patch entry 1")
+![Options for Remove Door Animations patch entry 2](_assets/dolphin_add_patch_entry_2.png "Options for Remove Door Animations patch entry 2")
+
+### Console
+
+Codes for Action Replay/GameShark etc...
 
 **[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban**
 
@@ -128,11 +149,6 @@ Offset   Value
 8016A948 60000000
 8016A950 60000000
 ```
-
-*Example screenshots showing patch offsets for JP CVX release:*
-
-![Options for Remove Door Animations patch entry 1](_assets/dolphin_add_patch_entry_1.png "Options for Remove Door Animations patch entry 1")
-![Options for Remove Door Animations patch entry 2](_assets/dolphin_add_patch_entry_2.png "Options for Remove Door Animations patch entry 2")
 
 # Acknowledgements
 
