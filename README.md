@@ -153,7 +153,6 @@ Codes for Gecko and ARMax.
 
 **[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban**
 
-Gecko
 ```
 0417C594 60000000
 0417C59C 60000000
@@ -161,7 +160,6 @@ Gecko
 
 **[GCDE08] [US] Resident Evil: Code: Veronica X**
 
-Gecko
 ```
 04169FAC 60000000
 04169FB4 60000000
@@ -169,7 +167,6 @@ Gecko
 
 **[GCDP08] [EU] Resident Evil: Code: Veronica X**
 
-Gecko
 ```
 0416A948 60000000
 0416A950 60000000
