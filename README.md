@@ -95,7 +95,7 @@ Offset   Value
    - [[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](Dolphin/GCDJ08.ini)
    - [[GCDE08] [US] Resident Evil: Code: Veronica X](Dolphin/GCDE08.ini)
    - [[GCDP08] [EU] Resident Evil: Code: Veronica X](Dolphin/GCDP08.ini)
-2. Save the patch file to the ***GameSettings*** folder under Dolphins [Global User Directory](https://dolphin-emu.org/docs/guides/controlling-global-user-directory/):
+2. Save the patch file to the ***GameSettings*** folder under Dolphins [User Directory](https://dolphin-emu.org/docs/guides/controlling-global-user-directory/):
    - Windows: ***Documents/Dolphin Emulator/GameSettings***
    - MacOS: ***~/.dolphin-emu/GameSettings***
    - Linux: ***~/.dolphin-emu/GameSettings***
@@ -106,25 +106,7 @@ Adding patch manually (optional):
 1. Open Dolphin then ***Right Click Game***, select ***Properties*** then select ***Patches*** tab.
 2. Press the ***Add*** button (near bottom of the dialog) to open the ***Add Patch*** dialog.
 3. In the ***Name*** field enter ***Remove Door Animations***.
-5. Find the ***Offsets*** and ***Values*** for your game release from the console tables below.
-4. Entry 1:
-   - Select ***dword***.
-   - Fill in ***Offset*** and ***Value***.
-5. Press the ***Add*** button to create another entry.
-6. Entry 2:
-   - Select ***dword***.
-   - Fill in ***Offset*** and ***Value***.
-7. Press ***OK*** to save the patch then ***Close*** the properties dialog.
-8. Run the game!
-
-*Example screenshots showing patch offsets for JP CVX release:*
-
-![Options for Remove Door Animations patch entry 1](_assets/dolphin_add_patch_entry_1.png "Options for Remove Door Animations patch entry 1")
-![Options for Remove Door Animations patch entry 2](_assets/dolphin_add_patch_entry_2.png "Options for Remove Door Animations patch entry 2")
-
-### Console
-
-Codes for Action Replay/GameShark etc...
+4. Find the ***Offsets*** and ***Values*** for your game release from the tables below.
 
 **[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban**
 
@@ -148,6 +130,49 @@ Offset   Value
 Offset   Value
 8016A948 60000000
 8016A950 60000000
+```
+
+5. Entry 1:
+   - Select ***dword***.
+   - Fill in ***Offset*** and ***Value***.
+6. Press the ***Add*** button to create another entry.
+7. Entry 2:
+   - Select ***dword***.
+   - Fill in ***Offset*** and ***Value***.
+8. Press ***OK*** to save the patch then ***Close*** the properties dialog.
+9. Run the game!
+
+*Example screenshots showing patch offsets for JP CVX release:*
+
+![Options for Remove Door Animations patch entry 1](_assets/dolphin_add_patch_entry_1.png "Options for Remove Door Animations patch entry 1")
+![Options for Remove Door Animations patch entry 2](_assets/dolphin_add_patch_entry_2.png "Options for Remove Door Animations patch entry 2")
+
+### Console
+
+Codes for Gecko and ARMax.
+
+**[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban**
+
+Gecko
+```
+0417C594 60000000
+0417C59C 60000000
+```
+
+**[GCDE08] [US] Resident Evil: Code: Veronica X**
+
+Gecko
+```
+04169FAC 60000000
+04169FB4 60000000
+```
+
+**[GCDP08] [EU] Resident Evil: Code: Veronica X**
+
+Gecko
+```
+0416A948 60000000
+0416A950 60000000
 ```
 
 # Acknowledgements
