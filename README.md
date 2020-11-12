@@ -171,6 +171,10 @@ Remove Door Animations
 0416A948 60000000
 0416A950 60000000
 ```
+  
+## Announcements
+
+- [SRC Forums - Door Skip for PS3 and PS2](https://www.speedrun.com/cvx/thread/5ash9)
 
 # Acknowledgements
 
