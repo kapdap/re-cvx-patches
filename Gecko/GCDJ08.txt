@@ -1,0 +1,6 @@
+GCDJ08
+Biohazard: Code: Veronica Kanzenban
+
+Remove Door Animations
+0417C594 60000000
+0417C59C 60000000

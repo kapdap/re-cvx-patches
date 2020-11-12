@@ -1,0 +1,6 @@
+GCDP08
+Resident Evil: Code: Veronica X
+
+Remove Door Animations
+0416A948 60000000
+0416A950 60000000

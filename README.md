@@ -66,25 +66,22 @@ Codes for Action Replay/GameShark/CodeBreaker etc...
 **[SLPM-650.22] [JP] Biohazard: Code: Veronica Kanzenban**
 
 ```
-Offset   Value
-0013393C 00000000
-00133944 00000000
+2013393C 00000000
+20133944 00000000
 ```
 
 **[SLUS-201.84] [US] Resident Evil: Code: Veronica X**
 
 ```
-Offset   Value
-00133D4C 00000000
-00133D54 00000000
+20133D4C 00000000
+20133D54 00000000
 ```
 
 **[SLES-503.06] [EU] Resident Evil: Code: Veronica X**
 
 ```
-Offset   Value
-00133FCC 00000000
-00133FD4 00000000
+20133FCC 00000000
+20133FD4 00000000
 ```
 
 ## GameCube
@@ -149,25 +146,28 @@ Offset   Value
 
 ### Console
 
-Codes for Gecko and ARMax.
+Codes for Gecko and Action Replay.
 
-**[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban**
+**[[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](GameCube/GCDP08.gct)**
 
 ```
+Remove Door Animations
 0417C594 60000000
 0417C59C 60000000
 ```
 
-**[GCDE08] [US] Resident Evil: Code: Veronica X**
+**[[GCDE08] [US] Resident Evil: Code: Veronica X](GameCube/GCDP08.gct)**
 
 ```
+Remove Door Animations
 04169FAC 60000000
 04169FB4 60000000
 ```
 
-**[GCDP08] [EU] Resident Evil: Code: Veronica X**
+**[[GCDP08] [EU] Resident Evil: Code: Veronica X](GameCube/GCDP08.gct)**
 
 ```
+Remove Door Animations
 0416A948 60000000
 0416A950 60000000
 ```

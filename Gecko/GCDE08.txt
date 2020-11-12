@@ -1,0 +1,6 @@
+GCDE08
+Resident Evil: Code: Veronica X
+
+Remove Door Animations
+04169FAC 60000000
+04169FB4 60000000
