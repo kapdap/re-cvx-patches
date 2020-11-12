@@ -141,8 +141,7 @@ Offset   Value
 
 *Example screenshots showing patch offsets for JP CVX release:*
 
-![Options for Remove Door Animations patch entry 1](_assets/dolphin_add_patch_entry_1.png "Options for Remove Door Animations patch entry 1")
-![Options for Remove Door Animations patch entry 2](_assets/dolphin_add_patch_entry_2.png "Options for Remove Door Animations patch entry 2")
+![](_assets/dolphin_add_patch.png)
 
 ### Console
 
