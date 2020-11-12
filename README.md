@@ -148,7 +148,7 @@ Offset   Value
 
 Codes for Gecko and Action Replay.
 
-**[[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](GameCube/GCDP08.gct)**
+**[[GCDJ08] [JP] Biohazard: Code: Veronica Kanzenban](GameCube/GCDJ08.gct)**
 
 ```
 Remove Door Animations
@@ -156,7 +156,7 @@ Remove Door Animations
 0417C59C 60000000
 ```
 
-**[[GCDE08] [US] Resident Evil: Code: Veronica X](GameCube/GCDP08.gct)**
+**[[GCDE08] [US] Resident Evil: Code: Veronica X](GameCube/GCDE08.gct)**
 
 ```
 Remove Door Animations
