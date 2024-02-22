@@ -55,7 +55,7 @@ Offset   Value
 
 *Example screenshots showing patch offsets for JP CVX release:*
 
-![](_assets/dolphin_add_patch.png)
+![](../_assets/dolphin_add_patch.png)
 
 ## Console
 
