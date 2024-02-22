@@ -11,8 +11,8 @@ This repository contains patches to remove door animations in Resident Evil/Bioh
 
 ## Unsupported
 
-- PlayStation 4
-- Xbox 360
+- Sony PlayStation 4
+- Microsoft Xbox 360
 
 ## Announcements
 

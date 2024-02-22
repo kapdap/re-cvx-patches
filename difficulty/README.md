@@ -8,7 +8,7 @@ This repository contains patches to restore mode select for non-Japanese release
 
 ## Screenshot
 
-![Mode select screen enabled on the PlayStation 2 USA release](../_assets/ps2_usa_mode_select.jpg)
+![Mode select screen enabled on the PlayStation 2 USA release](../_assets/ps2_usa_mode_select.jpg)<br>
 *Mode select screen enabled on the PlayStation 2 USA release.*
 
 ## Unsupported

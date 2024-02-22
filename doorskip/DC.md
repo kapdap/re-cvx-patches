@@ -7,7 +7,7 @@
    - [[T36806D 05] [GB] Resident Evil: Code: Veronica X](Dreamcast/T36806D_05.cht)
    - [[T1207M] [JP] Biohazard: Code: Veronica](Dreamcast/T1207M.cht)
    - [[T1240M] [JP] Biohazard: Code: Veronica Kanzenban](Dreamcast/T1240M.cht)
-   - [[T1214M] [JP] BioHazard Code: Veronica (Trial Edition)](Dreamcast/T1214M.cht)
+   - [[T1214M] [JP] BioHazard: Code: Veronica (Trial Edition)](Dreamcast/T1214M.cht)
 
 ## Console
 
@@ -29,7 +29,7 @@ Codes for Action Replay/Gameshark.
 0101819E 00000009
 ```
 
-**[T1207M] [JP] BioHazard Code: Veronica**
+**[T1207M] [JP] BioHazard: Code: Veronica**
 
 ```
 01015E0C 00000009
@@ -45,7 +45,7 @@ Codes for Action Replay/Gameshark.
 010180DA 00000009
 ```
 
-**[T1214M] [JP] BioHazard Code: Veronica (Trial Edition)**
+**[T1214M] [JP] BioHazard: Code: Veronica (Trial Edition)**
 
 ```
 01017ACE 00000009
