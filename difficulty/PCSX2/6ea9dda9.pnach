@@ -1,0 +1,10 @@
+gametitle=Resident Evil - Code Veronica X (PAL-M4) (SLES-50306)
+comment=Enable Mode Select Patch (by Kapdap)
+
+// Enable Mode Select
+patch=0,EE,002CB0CC,word,2402000B
+patch=0,EE,002CB0D0,word,AE020004
+patch=0,EE,002CB0D4,word,2402000A
+patch=0,EE,002CB0D8,word,AE02000C
+patch=0,EE,002CB0DC,word,0C0A6554
+patch=0,EE,002CB0E0,word,70002628

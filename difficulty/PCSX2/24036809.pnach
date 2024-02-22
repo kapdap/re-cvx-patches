@@ -1,0 +1,10 @@
+gametitle=Resident Evil: Code: Veronica X (SLUS-20184)
+comment=Enable Mode Select Patch (by Kapdap)
+
+// Enable Mode Select
+patch=0,EE,002C42AC,word,2402000B
+patch=0,EE,002C42B0,word,AE020004
+patch=0,EE,002C42B4,word,2402000A
+patch=0,EE,002C42B8,word,AE02000C
+patch=0,EE,002C42BC,word,0C0A51B0
+patch=0,EE,002C42C0,word,70002628
