@@ -28,6 +28,7 @@ PPU-b4b1ebe7a069782537a13d5bdbc15d6e900ceb25: # RESIDENT EVIL CODE: Veronica X (
       "RESIDENT EVIL CODE: Veronica X":
         NPUB30467: [ 01.00 ]
     Author: Kapdap
+    Notes:
     Patch Version: 1.0
     Patch:
       - [ be32, 0x1AE25C, 0x38600000 ]
@@ -38,6 +39,7 @@ PPU-df822d7d47de09c5672201db8cc633009037f54f: # RESIDENT EVIL CODE: Veronica X (
       "RESIDENT EVIL CODE: Veronica X":
         NPEB00553: [ 01.00 ]
     Author: Kapdap
+    Notes:
     Patch Version: 1.0
     Patch:
       - [ be32, 0x1AFCCC, 0x38600000 ]
