@@ -8,7 +8,7 @@
 
 ## Console
 
-Install [Artemis PS3](http://artemis.psdev.tk/) onto your PS3.
+Install [Artemis PS3](https://github.com/bucanero/ArtemisPS3) onto your PS3.
 
 1. Run Artemis, select **Online DB** and choose your release from the list:
 
@@ -20,7 +20,7 @@ Install [Artemis PS3](http://artemis.psdev.tk/) onto your PS3.
 ```
 
 2. Enable ***Remove Door Animations*** code.
-3. Read the [Using Artemis](http://artemis.psdev.tk/INSTALLATION.html#using-artemis) guide for more info on running the game.
+3. Read the [Using Artemis](https://github.com/bucanero/ArtemisPS3/blob/master/docs/INSTALLATION.md#using-artemis) guide for more info on running the game.
 
 Installing codes onto a USB drive (optional):
 
@@ -40,4 +40,4 @@ Installing codes onto a USB drive (optional):
 ```
 
 5. Enable ***Remove Door Animations*** code.
-6. Read the [Using Artemis](http://artemis.psdev.tk/INSTALLATION.html#using-artemis) guide for more info on running the game.
+6. Read the [Using Artemis](https://github.com/bucanero/ArtemisPS3/blob/master/docs/INSTALLATION.md#using-artemis) guide for more info on running the game.
